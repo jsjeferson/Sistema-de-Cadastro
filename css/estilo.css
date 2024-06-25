@@ -1,0 +1,70 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+div#corpo-form input{
+    display: block;
+    height: 55px;
+    width: 400px;
+    margin: 10px;
+    border-radius: 30px;
+    border:1px solid;
+    font-size: 16pt;
+}
+
+div#corpo-form{
+    width: 420px;
+    margin: 150px auto 0px auto;
+}
+
+div#corpo-form h1{
+    text-align: center;
+    padding: 20px;
+    color: white;
+}
+
+div.menu h1{
+    text-align: center;
+    padding: 20px;
+     text-shadow: #54ec0b;
+
+}
+
+div#corpo-form a{
+    display: block;
+    text-align: center;
+    color: white;
+}
+
+div.msg-erro{
+    width: 400px;
+    margin: 10px auto;
+    padding: 10px;
+    border-radius: 30px;
+    background-color: rgb(246, 20, 0);
+    text-align: center;
+    color: white;
+}
+
+.bg {
+    background-image: url("../IMAGEM/Itamaraty.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#cad,#rel, #sair{
+    display: block;
+    height: 55px;
+    width: 400px;
+    margin: 10px;
+    border-radius: 30px;
+    border:1px solid;
+    font-size: 16pt;
+}
+
+
+
+
+
